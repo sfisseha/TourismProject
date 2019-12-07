@@ -1,0 +1,29 @@
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-color: white;
+  background-color: black;
+}
+
+.place-name{
+  text-align: center;
+  font-size: 20px;
+}
+
+
+.card-layout {
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  color: white;
+  background-color: black;
+  margin-bottom: 10px;
+  margin-top: 1px;
+  margin-bottom: 10px;
+}
